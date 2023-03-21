@@ -1,5 +1,7 @@
 # unreal demo for puerts
 
+解压Plugins\Puerts\ThirdParty\nodejs_16\lib\Win64\libnode.dll.zip后运行
+
 ## 怎么跑这demo？
 
 * git clone https://github.com/chexiongsheng/puerts_unreal_demo.git 
